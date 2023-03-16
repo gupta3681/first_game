@@ -23,7 +23,7 @@ rect_y=screen_height//2
 rect_width=50
 rect_height=50 
 
-rect_color=(255,255,0)
+rect_color=(0,255,0)
 
 player_rect=pygame.Rect(rect_x,rect_y,rect_width,rect_height)
 
